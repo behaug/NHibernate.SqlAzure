@@ -5,7 +5,7 @@
        NHibernate5.SqlAzure.Standalone
     </id>
     <version>
-       2.0.0
+       2.1.7-NH51
     </version>
     <authors>
        Robert Moore, Matthew Davies
@@ -33,7 +33,7 @@
        en-US 
     </language>
     <dependencies>
-      <dependency id="NHibernate" version="[5.0, 5.1)" />
+      <dependency id="NHibernate" version="[5.0, 5.2)" />
       <dependency id="EnterpriseLibrary.TransientFaultHandling" version="6.0" />
       <dependency id="EnterpriseLibrary.TransientFaultHandling.Data" version="6.0" />
     </dependencies>
